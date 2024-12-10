@@ -50,7 +50,7 @@ with author(s): Chaka "kmer2016" NGAMENI NJINEH
 
 ### What is the business roadmap of the project?
 
-*Please provide a link to the roadmap of the project.*
+A pull request to add the roadmap to our website is awaiting for validation: https://github.com/OpenRailAssociation/osrd-website/pull/257
 
 ## Adoption
 
