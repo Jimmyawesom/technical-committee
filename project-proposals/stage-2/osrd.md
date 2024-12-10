@@ -72,7 +72,7 @@ All of it is available in english and most of it is also translated in french.
 ### Is the project REUSE compliant?
 
 - The project is REUSE compliant (with a CI check)
-- We did not add a badge to the readme
+- Badge: [![REUSE status](https://api.reuse.software/badge/github.com/OpenRailAssociation/osrd)](https://api.reuse.software/info/github.com/OpenRailAssociation/osrd)
 - https://github.com/OpenRailAssociation/osrd/blob/68c3e1480c429a2cf8c7f8b7932769076761ac08/.github/workflows/build.yml#L1122-L1128
 
 ### Does the project use the Developer Certificate of Origin?
